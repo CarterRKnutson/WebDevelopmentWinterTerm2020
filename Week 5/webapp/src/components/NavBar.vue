@@ -13,10 +13,10 @@
       goToHome: function() {
         this.$router.push({ path: 'home' })
       },
-      goToTables: function() {
+      goToStudents: function() {
         this.$router.push({ path: 'students' })
       },
-      goToForms: function() {
+      goToInstructors: function() {
         this.$router.push({ path: 'instructors' })
       }
     }
