@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+  }
+  
+  #myHeading { 
+          background-color: black; 
+          font-family: 'Times New Roman', Times, serif;
+          color: white; 
+          padding: 8px; 
+      } 
+  
+  p {
+    font-family: cursive;
+    color: white;
+    font-size: 20px;
+  }
+
+  .tables { 
+    background-color: black; 
+    color: red; 
+    padding: 8px; 
+} 

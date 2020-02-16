@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+      <!--removeIf(production)-->
+      <script src="js/login.js"></script>
+      <!--endRemoveIf(production)-->
+
+      <!-- inject:js -->
+      <!-- endinject -->
+    </head>
+    <body>
+    <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" alt="Logging Out">
+
+    <form>
+        First name:<br>
+        <input  type="text" id="user" name="Username"><br>
+        <p id="usernameError" style="visibility: hidden;">Error: Please enter a valid Username</p>
+        Password:<br>
+        <input type="password" id="pswrd" name="Password">  
+        <p id="passwordError" style="visibility: hidden;">Error: Please enter a valid Password</p>      
+        
+        <input type="button" value="Submit" onclick="validate()">
+      </form>
+    </body>
+</html>
