@@ -36,7 +36,7 @@
     function getInstructors() {
         return JSON.parse(instructors);
     }
-    var instructors = '[{"firstName": "Elizabeth", "middleinit": "J", "lastName": "Hoover"}, {"firstName": "Edna", "middleinit": "P", "lastName": "Krabopal"}]';
+    var instructors = '[{"firstName": "Elizabeth", "middleinit": "J", "lastName": "Hoover"}, {"firstName": "Edna", "middleinit": "P", "lastName": "Krabopal"}, {"firstName": "James", "middleinit": "K", "lastName": "Frink"}]';
 </script>
 
 <style scoped>
