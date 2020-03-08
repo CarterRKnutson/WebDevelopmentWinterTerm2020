@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "webapp"
+		},
+		{
+			"path": "webapi"
+		},
+		{
+			"path": "webapi.tests"
+		}
+	],
+	"settings": {}
+}
