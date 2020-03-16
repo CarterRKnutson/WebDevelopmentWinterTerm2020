@@ -1,0 +1,211 @@
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\obj\Debug\netcoreapp3.1\webapi.csprojAssemblyReference.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.xml
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 6\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\obj\Debug\netcoreapp3.1\webapi.csprojAssemblyReference.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CopyComplete
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.xml
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 7\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.csprojAssemblyReference.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CopyComplete
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.xml
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.csprojAssemblyReference.cache
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CopyComplete
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.xml
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 8\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.csprojAssemblyReference.cache
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CopyComplete
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.xml
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+C:\SD Card\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\webapi.exe
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\webapi.deps.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\webapi.runtimeconfig.dev.json
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\webapi.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\webapi.pdb
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.csprojAssemblyReference.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfoInputs.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.AssemblyInfo.cs
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.RazorTargetAssemblyInfo.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.csproj.CopyComplete
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.Manifest.cache
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\staticwebassets\webapi.StaticWebAssets.xml
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\obj\Debug\netcoreapp3.1\webapi.pdb
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\Web Development\Web Development Labs\WebDevelopmentWinterTerm2020\Week 9\webapi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
